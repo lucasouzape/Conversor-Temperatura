@@ -1,0 +1,47 @@
+html{
+    background-color: rgba(19, 182, 231, 0.438);
+    
+}
+.digitar{
+    background-color: rgb(195, 209, 216);
+    font-weight: x900px;
+    align-items: center;
+    position: absolute; left: 40%;
+    position: absolute; top:20%; 
+    font-size: 40px;
+
+}
+
+.protioli{
+    background-color: rgb(224, 191, 191);
+    border: gainsboro;
+  align-items: center;
+  position: absolute; left: 52%;
+  position: absolute; top:45%;   
+}
+
+
+.farenrait{
+    background-color: rgb(195, 209, 216);
+    font-weight: x900px;
+    align-items: center;
+    position: absolute; left: 52%;
+    position: absolute; top:40%;  
+   
+}
+.titulo{
+    background-color: rgb(195, 209, 216);
+    font-weight: x9002px;
+    align-items: center;
+    position: absolute; left: 50%;
+    position: absolute; top:10%;
+
+}
+.campo{
+    background-color: rgb(195, 209, 216);
+    font-weight: x900px;
+    align-items: center;
+    position: absolute; left: 52%;
+    position: absolute; top:40%;
+
+}
